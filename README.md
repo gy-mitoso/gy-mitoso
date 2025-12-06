@@ -5,10 +5,11 @@
 Currently pursuing a **Professional Master’s degree in Electrical Engineering** with a focus on **Artificial Intelligence** at **UEA**.  
 Holds a **Bachelor’s degree in Computer Engineering** from UEA and a **postgraduate MBA in Full Stack Development** from IGTI.  
 
-Professional with extensive experience in **Web Development**, working with technologies such as **Angular**, **Spring Boot**, **NestJS**, and **Docker**.  
-Has solid knowledge in **Cloud Computing**, with hands-on experience on platforms such as **AWS** and **DigitalOcean**, and holds an **AWS Architect certification from Udacity**.
+Senior Software Developer and Technical Lead with **over 8 years of experience** delivering high-quality software solutions across diverse industries. Currently leading a cross-functional team focused on building **advanced software and AI-powered applications**.
 
-Currently dedicated to **Artificial Intelligence and Computer Vision projects at INDT**, acting as a specialist and working directly with clients and partners to ensure transparency and high-quality deliverables.
+Experienced in designing and implementing **full-stack systems** using **Angular, NestJS, Node.js, and Python**. I lead the development of **AI pipelines** for training and deploying convolutional neural networks (CNNs), integrating AI with **industrial machines** through protocols like **Modbus**, enabling real-time control and monitoring.
+
+Passionate about creating **scalable, maintainable, and high-performance solutions**. Skilled in **Docker** and modern software architecture practices. I work closely with stakeholders to align technology with business goals, drive innovation, and deliver impactful results.
 
 ---
 
